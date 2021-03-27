@@ -42,7 +42,7 @@ This is the first attempt to make a network to generate Ilia Kuvshinov's art. In
 
 # Ava's Demon
 
-Some fun little project about on particular [webcomic](https://www.avasdemon.com/).
+Some fun little project about a particular [webcomic](https://www.avasdemon.com/).
 
 ![Ava's Demon](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/avasdemon_v1.jpg)
 
