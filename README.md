@@ -11,7 +11,7 @@ In order to make a dataset, I downloaded the whole instagram of [Ilia Kuvshinov]
 
 # Idols
 
-For some project, I needed an average Japanese likeness, so I fetched some sites with said people, aligned and cropped the faces (basically everywhere you see a face, I used this step unless explicitly stated I'm not, so I will omit to mention it) 
+For some project, I needed an average Japanese idol likeness, so I fetched some sites with said people, aligned and cropped the faces (basically everywhere you see a face, I used this step unless explicitly stated I'm not, so I will omit to mention it) 
 
 ![Idols](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/idols_v5.jpg)
 
