@@ -39,6 +39,10 @@ Like the asian heritage one this can be used to lower age bias in dataset.
 
 ![10-19 yo](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/10-19.jpg)
 
+# 60+ yo
+The same as previous
+
+![10-19 yo](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/60+.jpg)
 
 # NeuralKuvshinov1
 
