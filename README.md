@@ -34,6 +34,12 @@ The same as previous
 
 ![Indian heritage](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/indian_v1.jpg)
 
+# 10-19 yo
+Like the asian heritage one this can be used to lower age bias in dataset.
+
+![10-19 yo](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/10-19.jpg)
+
+
 # NeuralKuvshinov1
 
 This is the first attempt to make a network to generate Ilia Kuvshinov's art. In this particular instance, I manually filter what I think is suitable for this network to learn on.
