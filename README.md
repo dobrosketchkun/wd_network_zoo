@@ -49,6 +49,11 @@ Just corgi, as simple as that.
 
 ![corgi](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/corgi.jpg)
 
+# Cats
+Cats faces, sometimes distorted, but it's on dataset (wich's made by me too)
+
+![cats](https://raw.githubusercontent.com/dobrosketchkun/wd_network_zoo/main/files/cats.jpg)
+
 # NeuralKuvshinov1
 
 This is the first attempt to make a network to generate Ilia Kuvshinov's art. In this particular instance, I manually filter what I think is suitable for this network to learn on.
